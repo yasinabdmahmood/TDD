@@ -16,4 +16,19 @@ describe Solver do
       expect(factorial).to eql 720
     end
   end
+  context 'Test reverse method' do
+    solver = Solver.new
+    it 'The reverse of yama is equal to amay' do
+      reverse = solver.reverse("yama")
+      expect(reverse).to eq 'amay'
+    end
+    it 'The reverse of are you there is equal to ereht uoy era' do
+      reverse = solver.reverse("are you there")
+      expect(reverse).to eq 'ereht uoy era'
+    end
+    it 'The reverse of hello is equal to olleh' do
+      reverse = solver.reverse("hello")
+      expect(reverse).to eq 'olleh'
+    end
+  end
 end
