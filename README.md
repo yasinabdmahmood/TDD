@@ -40,10 +40,12 @@ Ruby runtime
 - GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
 - LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
 
-👤 **Author2**
+👤 **Desta Legesse Wubishet**
 
-- GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
-- LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
+- GitHub: https://github.com/dlwub
+- Twitter: [@DestaWubishet](https://twitter.com/DestaWubishet)
+- LinkedIn: https://www.linkedin.com/in/desta-legesse-w-509844213/
+ 
 
 👤 **Author3**
 
