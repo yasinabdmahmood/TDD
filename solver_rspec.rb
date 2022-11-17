@@ -34,4 +34,28 @@ describe Solver do
       expect(reverse).to eq 'olleh'
     end
   end
+
+  
+  context 'Test fizzbuzz method' do
+    solver = Solver.new
+    it 'N divisible by 3' do
+      string = solver.fizzbuzz(12)
+      expect(string).to eq 'fizz'
+    end
+
+    it 'N divisible by 5' do
+      string = solver.fizzbuzz(20)
+      expect(string).to eq 'buzz'
+    end
+
+    it 'N divisible by 3 and 5' do
+      string = solver.fizzbuzz(15)
+      expect(string).to eq 'fizzbuzz'
+    end
+
+    it 'N Not divisible by 3 or 5' do
+      string = solver.fizzbuzz(16)
+      expect(string).to eq '16'
+    end
+  end
 end

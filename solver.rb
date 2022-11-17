@@ -14,4 +14,7 @@ class Solver
     end
     result
   end
+
+   def fizzbuzz(number)
+   end
 end
