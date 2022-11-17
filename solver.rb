@@ -1,17 +1,17 @@
 class Solver
-	def factorial(num)
-		return 1 if num.zero?
+  def factorial(num)
+    raise Exception, 'Invalid input' if num.negative?
+    return 1 if num.zero?
 
-		num * factorial(num - 1)
-	end
+    num * factorial(num - 1)
+  end
 
-	def reverse(str)
-		last = str.length - 1
-    result=''
-    for i in 0..last do      
-      result+=str[last-i]       
+  def reverse(str)
+    last = str.length - 1
+    result = ''
+    (0..last).each do |i|
+      result += str[last - i]
     end
     result
-
-	end    
+  end
 end
