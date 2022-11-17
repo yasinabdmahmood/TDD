@@ -35,7 +35,6 @@ describe Solver do
     end
   end
 
-  
   context 'Test fizzbuzz method' do
     solver = Solver.new
     it 'N divisible by 3' do
