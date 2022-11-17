@@ -2,9 +2,7 @@ require './solver'
 
 describe Solver do
     context 'Test factorial method' do
-        before(:all) do 
-            solver = Solver.new
-         end 
+        solver = Solver.new
         it 'factorial of zero is equal to one' do          
             factorial = solver.factorial(0)
             expect(factorial).to eql 1
