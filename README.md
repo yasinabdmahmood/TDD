@@ -9,10 +9,6 @@
 
 - Ruby
 
-
-
-
-
 ## Get Started
 
 To get a local copy of this program, Please follow these simple example steps.
@@ -29,27 +25,25 @@ To get a local copy of this program, Please follow these simple example steps.
 
 Ruby runtime
 
-
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Yaseen Abd Alwahid**
 
 - GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
 - LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
 
-👤 **Author2**
+👤 **Desta Legesse Wubishet**
 
-- GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
-- LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
+- GitHub: https://github.com/dlwub
+- Twitter: [@DestaWubishet](https://twitter.com/DestaWubishet)
+- LinkedIn: https://www.linkedin.com/in/desta-legesse-w-509844213/
+ 
 
-👤 **Author3**
+👤 **MUSKAN GUPTA**
 
-- GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
-- LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
-
+- GitHub: [@github](https://github.com/muskan2532150)
+- Twitter: [@twitter](muskan2532150)
+- Linkedin:[Username](https://www.linkedin.com/in/muskan-gupta-869165225/)
 
 
 ## 🤝 Contributing
